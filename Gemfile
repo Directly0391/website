@@ -1,7 +1,10 @@
 source 'https://rubygems.org'
-gem 'jekyll-paginate'
 
-gem "jekyll", "~> 4.0"
-gem "rake"
-
-gem "webrick", "~> 1.7"
+# GitHub Pages compatible gems
+gem 'jekyll', '~> 3.9.0' # A version known to be compatible
+gem 'jekyll-feed', '~> 0.12.1'
+gem 'jekyll-seo-tag', '~> 2.6.1'
+gem 'jekyll-sitemap', '~> 1.3.1'
+gem 'jekyll-paginate', '~> 1.1.0'
+gem 'kramdown', '~> 2.3.0'
+gem 'webrick', '~> 1.7'
