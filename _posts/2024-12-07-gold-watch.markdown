@@ -1,5 +1,6 @@
 ---
 layout:     post
+published: false
 title:      "The Gold Watch"
 subtitle:   "A story from 2015"
 author: "Rango"

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Life during and after University"
 author: "Rango"
 catalog: true

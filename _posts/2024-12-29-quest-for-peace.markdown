@@ -1,5 +1,6 @@
 ---
 layout:     post
+published: false
 title:      "The Quest for Peace"
 author: "Rango"
 catalog: true

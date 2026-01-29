@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "ROS Topics: The Wrong Tool for the Job (A Love Letter to Proper Abstractions)"
 author: "Rango"
 catalog: true
