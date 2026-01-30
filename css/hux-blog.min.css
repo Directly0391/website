@@ -1358,6 +1358,12 @@ footer .copyright a:hover,
 footer .copyright a:focus {
   color: #0085a1;
 }
+footer .fa-stack .fa-circle {
+  color: #ffffff;
+}
+footer .fa-stack .fa-inverse {
+  color: #1a1a1a;
+}
 .btn {
   /* Hux learn from
      *     TypeIsBeautiful,
