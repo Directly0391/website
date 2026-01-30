@@ -10,6 +10,7 @@ I completed my BSc. in Electronics from [Nantes Université](https://english.uni
 
 I now started the process of learning Blockchain Technology as well as their web integrations with web3.
 
+{% comment %}
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=guilyx/guilyx,APLA-Toolbox/pymapf,APLA-Toolbox/PythonPDDL,guilyx/awesome-github-pages-portfolios&type=date&legend=top-left)](https://www.star-history.com/#guilyx/guilyx&APLA-Toolbox/pymapf&APLA-Toolbox/PythonPDDL&guilyx/awesome-github-pages-portfolios&type=date&legend=top-left)
@@ -21,3 +22,4 @@ I now started the process of learning Blockchain Technology as well as their web
 
 [1]: https://trackdrop.xyz/
 [2]: https://github.com/guilyx/python-nexo
+{% endcomment %}
