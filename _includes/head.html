@@ -67,6 +67,24 @@
     <script></script>
 
     <!-- Google AdSense -->
+    {% comment %}
     <script data-ad-client="ca-pub-6487568398225121" async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    {% endcomment %}
+
+    <!-- Google Analytics -->
+    {% comment %}
+    {% if site.ga_track_id %}
+    <!-- New Google Analytics with dynamic tracking ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_track_id }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      // Use the dynamic tracking ID and domain name if needed
+      gtag('config', '{{ site.ga_track_id }}');
+    </script>
+    {% endif %}
+    {% endcomment %}
 </head>
