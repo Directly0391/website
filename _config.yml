@@ -88,7 +88,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
-  [
-    { title: "Open PR to be featured!", href: "https://github.com/guilyx/guilyx.github.io/pulls" },
-  ]
+# friends:
+#   [
+#     { title: "Open PR to be featured!", href: "https://github.com/guilyx/guilyx.github.io/pulls" },
+#   ]
