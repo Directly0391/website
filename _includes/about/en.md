@@ -1,25 +1,7 @@
-Hey, I am Andre Woods. I am a full Cybersecurity student, and currently an intern at Aegis Living providing Tier 2 IT support. but I consider myself a Software Engineer at the core and have not limited myself to Robotics and its transversal fields. I have deployed web apps for blockchain analytics, trading (don't use it) bots, investment analytics apps, web3 and many more projects.
+Hey, I’m Andre Woods. I am a full-time student pursuing a Bachelor of Applied Science in Cybersecurity, with an expected graduation date in June 2026. While I am still early in my career, I have focused on building a solid technical foundation. This is demonstrated by my CCNA and AWS Certified Cloud Practitioner certifications.
 
-In the past, I have led the development of Serena's Autonomous Navigation (ROS2, C++) stack at [Coalescent Mobile Robotics](https://cm-robotics.com/), worked at [Hiventive](https://www.hiventive.com/en/) both as a Back-End Software Engineer (Go, PostgreSQL) and as a Embedded Software Engineer (C++, C).
+My technical skills are put into practice daily through my work as an IT Support Intern at Aegis Living. In this role, I provide technical assistance and Tier 2 support to a large organization of over 2,000 employees. My responsibilities include managing and troubleshooting critical network infrastructure, such as Wi-Fi, LAN, and VPN access, as well as supporting cloud-based services and streamlining user on-boarding through device provisioning. I am especially passionate about securely applying AI to improve support workflows and strengthen overall system security.
 
-I have also been part of the Real Time Systems research team at [LS2N](https://ls2n.fr) for AI Planning, in which I have developed [pymapf](https://github.com/APLA-Toolbox/pymapf) (Multi-Agents Pathfinding Toolbox) and [pyddl](https://github.com/APLA-Toolbox/pythonpddl) (PDDL Parser/Planner).
+Before transitioning into the IT field, I served as a school bus driver for the Issaquah School District. This unique background provided me with a proven track record of reliability, accountability, and the ability to remain calm under pressure in safety-critical environments. These "soft skills" are essential in cybersecurity, where attention to detail and a composed response to high-stakes incidents are vital to maintaining a secure environment.
 
-I have interned at [Ingeniarius](https://ingeniarius.pt/), where I have worked on [STOP](http://stop.ingeniarius.pt/), [SAFE](http://safeforest.ingeniarius.pt/) and [SEMFIRE](http://semfire.ingeniarius.pt/).
-
-I completed my BSc. in Electronics from [Nantes Université](https://english.univ-nantes.fr/), followed by a Master's in Embedded Systems at [Bordeaux Ynov Campus](https://www.ynov.com/campus/bordeaux). I then transfered for a Control and Robotics Master's at [Ecole Centrale Nantes](https://www.ec-nantes.fr/english-version), a top 5 graduate school in the country.
-
-I now started the process of learning Blockchain Technology as well as their web integrations with web3.
-
-{% comment %}
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=guilyx/guilyx,APLA-Toolbox/pymapf,APLA-Toolbox/PythonPDDL,guilyx/awesome-github-pages-portfolios&type=date&legend=top-left)](https://www.star-history.com/#guilyx/guilyx&APLA-Toolbox/pymapf&APLA-Toolbox/PythonPDDL&guilyx/awesome-github-pages-portfolios&type=date&legend=top-left)
-
-##### Projects
-
-- [Trackdrop][1] · A Footprint Tracker on Ethereum's Rollups · 2023
-- [Python-Nexo][2] · A Python Wrapper for Nexo Pro's API · 2022
-
-[1]: https://trackdrop.xyz/
-[2]: https://github.com/guilyx/python-nexo
-{% endcomment %}
+To continuously sharpen my technical edge, I am an active participant in Hack The Box and various campus clubs. Engaging with these communities allows me to practice hands-on penetration testing and defensive strategies beyond the classroom. I am driven by a commitment to stay ahead of the evolving threat landscape and to contribute to the security and efficiency of the organizations I serve.
